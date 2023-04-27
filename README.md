@@ -6,7 +6,7 @@ This script uses JavaScript technology and Node.Js to collect and validate links
 
 It is a fully functional library that can be called through the terminal, where we have developed commands for this, such as "npm run cli" to bring the list of links from inside the texto.md file, located in the files folder, or npm run cli :validate to bring the list of links validated through HTTP requests and responses/codes.
 
-# O que foi trabalhado no sistema:
+# What was worked on the system:
 
 * Exports and imports of modules through the keywords "export" and "import".
 
